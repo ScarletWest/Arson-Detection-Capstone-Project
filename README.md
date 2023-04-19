@@ -6,9 +6,9 @@ The system captures images of the interior where the fire occurred and of the do
 
 # Installation
 To install the Arson Detection System, you will need to have the following components:
-ESP32-CAM
-MH Fire detection sensor
-MQ-7 Carbon monoxide detection sensor
+ESP32-CAM,
+MH Fire detection sensor,
+MQ-7 Carbon monoxide detection sensor,
 SD card (16GB or higher)
 
 # Contributing
